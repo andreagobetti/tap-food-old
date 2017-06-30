@@ -1,5 +1,5 @@
-# tap-food-old
-Cash register application for Android
+# tap-manager-android-client
+Cash register, e-commerce backend and warehouse management application for Android
 
 Folders organization:
 
